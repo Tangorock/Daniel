@@ -1,5 +1,5 @@
 Hello There!
-My name is Daniel Kindl. Nickname Tangorock.
+My name is Daniel Kindl.
 I am 18 years old and currently studing Computing Science in Czech republic.
 My goals are to be an expert in Python, C# and Web Developing. These are my long-term goals. But you never know!
 
